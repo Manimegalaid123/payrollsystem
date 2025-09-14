@@ -25,7 +25,7 @@ A web-based app to manage employee payroll efficiently using **Flask** and **SQL
 
 ## ⚙️ Running the Project
 ```bash
-git clone https://github.com/Gokila-S/payroll-system
+git clone https://github.com/Manimegalaid123/payroll-system
 cd payroll-system
 pip install flask
 python app.py
